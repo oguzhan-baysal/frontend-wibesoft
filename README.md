@@ -1,3 +1,8 @@
+<img width="620" height="627" alt="Image" src="https://github.com/user-attachments/assets/6db3d3b0-6e86-407d-bc11-54338e7a0bf5" />
+
+
+
+
 # SHOP.CO - E-Commerce Web Application
 
 Modern ve responsive bir e-ticaret web uygulaması. Bu proje, Wibesoft Yazılım teknik değerlendirme görevi kapsamında geliştirilmiştir.
